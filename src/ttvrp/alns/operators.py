@@ -52,3 +52,68 @@ def swap_between_routes(solution: List[List[int]]):
     i = random.randint(1, len(r1) - 2)
     j = random.randint(1, len(r2) - 2)
     r1[i], r2[j] = r2[j], r1[i]
+
+
+def shaw_removal(solution: List[List[int]], dist_matrix, num_remove: int) -> List[int]:
+    """Remove related customers based on distance (Shaw removal)."""
+    customers = [n for r in solution for n in r[1:-1]]
+    if not customers:
+        return []
+    removed = []
+    seed = random.choice(customers)
+    removed.append(seed)
+    while len(removed) < num_remove:
+        remaining = list(set(customers) - set(removed))
+        if not remaining:
+            break
+        next_node = min(
+            remaining,
+            key=lambda n: min(dist_matrix[n][r] for r in removed)
+        )
+        removed.append(next_node)
+    for n in removed:
+        for route in solution:
+            if n in route:
+                route.remove(n)
+                break
+    return removed
+
+
+def regret_insert(solution: List[List[int]], nodes: List[int], dist_matrix, demands, capacity, depot=0):
+    """Insert nodes using a regret-2 heuristic."""
+    while nodes:
+        best_regret = -1
+        best_choice = None
+        for n in nodes:
+            best_costs = []
+            best_positions = []
+            for r_idx, route in enumerate(solution):
+                load = sum(demands[x] for x in route[1:-1])
+                if load + demands[n] > capacity:
+                    continue
+                for pos in range(1, len(route)):
+                    new_route = route[:pos] + [n] + route[pos:]
+                    c = 0
+                    for i in range(len(new_route)-1):
+                        c += dist_matrix[new_route[i]][new_route[i+1]]
+                    best_costs.append(c)
+                    best_positions.append((r_idx, pos, c))
+            if not best_positions:
+                continue
+            best_positions.sort(key=lambda x: x[2])
+            if len(best_positions) == 1:
+                regret = 1e9
+            else:
+                regret = best_positions[1][2] - best_positions[0][2]
+            if regret > best_regret:
+                best_regret = regret
+                best_choice = (n, best_positions[0])
+        if best_choice is None:
+            # create new route for random node
+            n = nodes.pop(0)
+            solution.append([depot, n, depot])
+            continue
+        n, (r_idx, pos, _) = best_choice
+        route = solution[r_idx]
+        solution[r_idx] = route[:pos] + [n] + route[pos:]
+        nodes.remove(n)

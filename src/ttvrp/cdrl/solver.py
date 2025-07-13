@@ -222,7 +222,6 @@ class CDRLClusteringSolver:
             return
 
         fname = os.path.basename(file_path)
-        summary_records = []
 
         base_name = os.path.splitext(fname)[0]
         output_name = f"{base_name}_clustered.xlsx"
@@ -320,19 +319,10 @@ class CDRLClusteringSolver:
         df_service.to_excel(output_path, index=False, sheet_name='clustered')
         print(f"[CDRLClusteringSolver] 写出 {output_name} -> {output_path}")
 
-        summary_records.append({
-            'filename': fname,
-            'depot_points': n_depot_points,
-            'k_depot': k_depot,
-            'depot_clusters_count': depot_clusters_count,
-            'stop_points': n_stop_points,
-            'k_stop': k_stop,
-            'stop_clusters_count': stop_clusters_count,
-            'match_count': match_count,
-            'used_time': used_time
-        })
-
-        self.save_cluster_summary(summary_records)
+        print(
+            f"[CDRLClusteringSolver] {fname} clustered: stop_clusters={stop_clusters_count}, "
+            f"depot_clusters={depot_clusters_count}, match={match_count}, time={used_time:.2f}s"
+        )
 
     def save_cluster_summary(self, records):
         """
@@ -476,15 +466,10 @@ class CDRLRLSolver:
 
         used_time = time.time() - start_time
         sum_dist = sum(distance_alls)
-        result = {
-            'case_id': case_id,
-            'total_distance': sum_dist,
-            'vehicle_num': len(cluster_ids),
-            'time': used_time,
-            'detail_path': "See route_alls"
-        }
-
-        self.save_summary([result])
+        print(
+            f"[CDRLRLSolver] case_id={case_id} done, total_dist={sum_dist}, "
+            f"vehicles={len(cluster_ids)}, time={used_time:.2f}s"
+        )
 
     def run_rl_for_all_clustered(self):
         """

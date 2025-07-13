@@ -2,7 +2,14 @@ import random
 import copy
 from typing import List, Tuple
 
-from .operators import random_removal, worst_distance_removal, two_opt, swap_between_routes
+from .operators import (
+    random_removal,
+    worst_distance_removal,
+    shaw_removal,
+    two_opt,
+    swap_between_routes,
+    regret_insert,
+)
 
 
 class ALNSSolver:
@@ -82,15 +89,23 @@ class ALNSSolver:
 
     def iterate(self, solution: List[List[int]]) -> List[List[int]]:
         sol = copy.deepcopy(solution)
-        if random.random() < 0.5:
-            removed = random_removal(sol, max(1, len(self.customers)//10))
+        remove_choice = random.random()
+        if remove_choice < 0.33:
+            removed = random_removal(sol, max(1, len(self.customers) // 10))
+        elif remove_choice < 0.66:
+            removed = worst_distance_removal(sol, self.dist, max(1, len(self.customers) // 10))
         else:
-            removed = worst_distance_removal(sol, self.dist, max(1, len(self.customers)//10))
+            removed = shaw_removal(sol, self.dist, max(1, len(self.customers) // 10))
 
         for idx, r in enumerate(sol):
             sol[idx] = two_opt(r)
         swap_between_routes(sol)
-        self.greedy_insert(sol, removed)
+
+        if random.random() < 0.5:
+            self.greedy_insert(sol, removed)
+        else:
+            regret_insert(sol, removed, self.dist, self.demands, self.capacity, self.depot)
+
         return sol
 
     def solve(self, iterations: int = 1000) -> Tuple[List[List[int]], float]:
@@ -104,5 +119,7 @@ class ALNSSolver:
             if cand_cost < best_cost:
                 best = copy.deepcopy(candidate)
                 best_cost = cand_cost
-            current = candidate
+                current = candidate
+            elif cand_cost < self.evaluate(current):
+                current = candidate
         return best, best_cost
