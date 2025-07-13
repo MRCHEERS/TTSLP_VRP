@@ -1,0 +1,1750 @@
+D:\Anaconda\python.exe D:\Hongjie\ttslp_vrp\src\ttslp\solver.py 
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-10-H-1.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-10-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-10-H-2.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-10-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-10-H-3.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-10-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-10-H-4.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-10-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-10-H-5.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-10-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-10-L-1.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-10-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-10-L-2.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-10-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-10-L-3.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-10-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-10-L-4.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-10-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-10-L-5.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-10-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-10-M-1.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-10-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-10-M-2.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-10-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-10-M-3.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-10-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-10-M-4.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-10-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-10-M-5.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-10-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-20-H-1.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-20-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-20-H-2.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-20-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-20-H-3.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-20-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-20-H-4.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-20-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-20-H-5.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-20-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-20-L-1.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-20-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-20-L-2.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-20-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-20-L-3.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-20-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-20-L-4.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-20-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-20-L-5.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-20-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-20-M-1.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-20-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-20-M-2.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-20-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-20-M-3.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-20-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-20-M-4.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-20-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-20-M-5.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-20-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-30-H-1.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-30-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-30-H-2.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-30-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-30-H-3.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-30-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-30-H-4.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-30-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-30-H-5.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-30-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-30-L-1.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-30-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-30-L-2.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-30-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-30-L-3.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-30-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-30-L-4.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-30-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-30-L-5.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-30-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-30-M-1.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-30-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-30-M-2.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-30-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-30-M-3.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-30-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-30-M-4.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-30-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-30-M-5.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-30-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-40-H-1.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-40-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-40-H-2.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-40-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-40-H-3.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-40-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-40-H-4.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-40-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-40-H-5.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-40-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-40-L-1.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-40-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-40-L-2.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-40-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-40-L-3.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-40-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-40-L-4.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-40-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-40-L-5.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-40-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-40-M-1.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-40-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-40-M-2.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-40-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-40-M-3.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-40-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-40-M-4.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-40-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-40-M-5.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-40-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-50-H-1.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-50-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-50-H-2.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-50-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-50-H-3.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-50-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-50-H-4.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-50-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-50-H-5.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-50-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-50-L-1.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-50-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-50-L-2.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-50-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-50-L-3.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-50-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-50-L-4.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-50-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-50-L-5.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-50-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-50-M-1.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-50-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-50-M-2.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-50-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-50-M-3.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-50-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-50-M-4.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-50-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-50-M-5.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-50-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-60-H-1.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-60-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-60-H-2.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-60-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-60-H-3.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-60-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-60-H-4.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-60-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-60-H-5.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-60-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-60-L-1.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-60-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-60-L-2.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-60-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-60-L-3.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-60-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-60-L-4.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-60-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-60-L-5.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-60-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-60-M-1.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-60-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-60-M-2.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-60-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-60-M-3.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-60-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-60-M-4.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-60-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-2500-60-M-5.xlsx
+[TTSLPSolver] 生成了 11925 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-2500-60-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-10-H-1.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-10-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-10-H-2.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-10-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-10-H-3.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-10-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-10-H-4.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-10-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-10-H-5.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-10-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-10-L-1.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-10-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-10-L-2.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-10-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-10-L-3.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-10-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-10-L-4.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-10-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-10-L-5.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-10-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-10-M-1.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-10-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-10-M-2.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-10-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-10-M-3.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-10-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-10-M-4.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-10-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-10-M-5.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-10-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-20-H-1.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-20-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-20-H-2.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-20-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-20-H-3.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-20-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-20-H-4.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-20-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-20-H-5.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-20-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-20-L-1.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-20-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-20-L-2.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-20-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-20-L-3.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-20-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-20-L-4.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-20-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-20-L-5.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-20-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-20-M-1.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-20-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-20-M-2.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-20-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-20-M-3.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-20-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-20-M-4.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-20-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-20-M-5.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-20-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-30-H-1.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-30-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-30-H-2.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-30-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-30-H-3.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-30-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-30-H-4.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-30-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-30-H-5.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-30-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-30-L-1.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-30-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-30-L-2.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-30-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-30-L-3.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-30-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-30-L-4.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-30-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-30-L-5.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-30-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-30-M-1.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-30-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-30-M-2.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-30-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-30-M-3.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-30-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-30-M-4.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-30-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-30-M-5.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-30-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-40-H-1.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-40-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-40-H-2.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-40-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-40-H-3.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-40-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-40-H-4.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-40-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-40-H-5.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-40-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-40-L-1.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-40-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-40-L-2.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-40-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-40-L-3.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-40-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-40-L-4.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-40-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-40-L-5.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-40-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-40-M-1.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-40-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-40-M-2.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-40-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-40-M-3.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-40-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-40-M-4.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-40-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-40-M-5.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-40-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-50-H-1.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-50-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-50-H-2.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-50-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-50-H-3.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-50-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-50-H-4.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-50-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-50-H-5.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-50-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-50-L-1.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-50-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-50-L-2.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-50-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-50-L-3.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-50-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-50-L-4.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-50-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-50-L-5.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-50-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-50-M-1.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-50-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-50-M-2.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-50-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-50-M-3.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-50-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-50-M-4.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-50-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-50-M-5.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-50-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-60-H-1.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-60-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-60-H-2.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-60-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-60-H-3.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-60-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-60-H-4.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-60-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-60-H-5.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-60-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-60-L-1.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-60-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-60-L-2.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-60-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-60-L-3.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-60-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-60-L-4.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-60-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-60-L-5.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-60-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-60-M-1.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-60-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-60-M-2.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-60-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-60-M-3.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-60-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-60-M-4.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-60-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\L-3000-60-M-5.xlsx
+[TTSLPSolver] 生成了 17160 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\L-3000-60-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-10-H-1.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-10-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-10-H-2.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-10-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-10-H-3.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-10-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-10-H-4.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-10-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-10-H-5.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-10-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-10-L-1.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-10-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-10-L-2.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-10-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-10-L-3.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-10-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-10-L-4.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-10-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-10-L-5.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-10-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-10-M-1.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-10-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-10-M-2.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-10-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-10-M-3.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-10-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-10-M-4.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-10-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-10-M-5.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-10-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-20-H-1.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-20-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-20-H-2.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-20-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-20-H-3.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-20-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-20-H-4.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-20-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-20-H-5.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-20-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-20-L-1.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-20-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-20-L-2.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-20-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-20-L-3.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-20-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-20-L-4.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-20-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-20-L-5.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-20-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-20-M-1.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-20-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-20-M-2.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-20-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-20-M-3.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-20-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-20-M-4.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-20-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-20-M-5.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-20-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-30-H-1.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-30-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-30-H-2.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-30-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-30-H-3.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-30-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-30-H-4.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-30-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-30-H-5.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-30-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-30-L-1.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-30-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-30-L-2.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-30-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-30-L-3.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-30-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-30-L-4.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-30-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-30-L-5.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-30-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-30-M-1.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-30-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-30-M-2.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-30-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-30-M-3.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-30-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-30-M-4.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-30-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-30-M-5.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-30-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-40-H-1.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-40-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-40-H-2.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-40-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-40-H-3.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-40-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-40-H-4.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-40-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-40-H-5.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-40-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-40-L-1.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-40-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-40-L-2.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-40-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-40-L-3.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-40-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-40-L-4.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-40-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-40-L-5.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-40-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-40-M-1.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-40-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-40-M-2.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-40-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-40-M-3.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-40-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-40-M-4.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-40-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-40-M-5.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-40-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-50-H-1.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-50-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-50-H-2.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-50-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-50-H-3.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-50-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-50-H-4.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-50-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-50-H-5.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-50-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-50-L-1.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-50-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-50-L-2.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-50-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-50-L-3.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-50-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-50-L-4.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-50-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-50-L-5.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-50-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-50-M-1.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-50-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-50-M-2.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-50-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-50-M-3.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-50-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-50-M-4.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-50-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-50-M-5.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-50-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-60-H-1.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-60-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-60-H-2.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-60-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-60-H-3.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-60-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-60-H-4.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-60-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-60-H-5.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-60-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-60-L-1.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-60-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-60-L-2.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-60-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-60-L-3.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-60-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-60-L-4.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-60-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-60-L-5.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-60-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-60-M-1.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-60-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-60-M-2.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 未找到最优解: D:\Hongjie\ttslp_vrp\data\raw\M-1500-60-M-2.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-60-M-3.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+
+Interrupt request received
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-60-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-60-M-4.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-60-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-1500-60-M-5.xlsx
+[TTSLPSolver] 生成了 4305 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-1500-60-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-10-H-1.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-10-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-10-H-2.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-10-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-10-H-3.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-10-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-10-H-4.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-10-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-10-H-5.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-10-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-10-L-1.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-10-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-10-L-2.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-10-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-10-L-3.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-10-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-10-L-4.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-10-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-10-L-5.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-10-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-10-M-1.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-10-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-10-M-2.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-10-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-10-M-3.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-10-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-10-M-4.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-10-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-10-M-5.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-10-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-20-H-1.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-20-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-20-H-2.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-20-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-20-H-3.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-20-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-20-H-4.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-20-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-20-H-5.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-20-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-20-L-1.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-20-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-20-L-2.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-20-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-20-L-3.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-20-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-20-L-4.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-20-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-20-L-5.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-20-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-20-M-1.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-20-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-20-M-2.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-20-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-20-M-3.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-20-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-20-M-4.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-20-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-20-M-5.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-20-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-30-H-1.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-30-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-30-H-2.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-30-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-30-H-3.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-30-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-30-H-4.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-30-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-30-H-5.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-30-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-30-L-1.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-30-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-30-L-2.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-30-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-30-L-3.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-30-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-30-L-4.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-30-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-30-L-5.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-30-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-30-M-1.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-30-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-30-M-2.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-30-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-30-M-3.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-30-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-30-M-4.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-30-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-30-M-5.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-30-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-40-H-1.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-40-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-40-H-2.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-40-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-40-H-3.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-40-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-40-H-4.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-40-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-40-H-5.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-40-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-40-L-1.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-40-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-40-L-2.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-40-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-40-L-3.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-40-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-40-L-4.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-40-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-40-L-5.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-40-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-40-M-1.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-40-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-40-M-2.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-40-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-40-M-3.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-40-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-40-M-4.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-40-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-40-M-5.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-40-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-50-H-1.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-50-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-50-H-2.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-50-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-50-H-3.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-50-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-50-H-4.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-50-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-50-H-5.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-50-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-50-L-1.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-50-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-50-L-2.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-50-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-50-L-3.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-50-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-50-L-4.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-50-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-50-L-5.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-50-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-50-M-1.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-50-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-50-M-2.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-50-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-50-M-3.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-50-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-50-M-4.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-50-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-50-M-5.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-50-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-60-H-1.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-60-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-60-H-2.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-60-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-60-H-3.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-60-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-60-H-4.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-60-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-60-H-5.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-60-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-60-L-1.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-60-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-60-L-2.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-60-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-60-L-3.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-60-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-60-L-4.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-60-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-60-L-5.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-60-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-60-M-1.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-60-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-60-M-2.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-60-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-60-M-3.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-60-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-60-M-4.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-60-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\M-2000-60-M-5.xlsx
+[TTSLPSolver] 生成了 7640 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\M-2000-60-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-10-H-1.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-10-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-10-H-2.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-10-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-10-H-3.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-10-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-10-H-4.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-10-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-10-H-5.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-10-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-10-L-1.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-10-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-10-L-2.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-10-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-10-L-3.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-10-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-10-L-4.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-10-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-10-L-5.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-10-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-10-M-1.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-10-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-10-M-2.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-10-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-10-M-3.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-10-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-10-M-4.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-10-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-10-M-5.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-10-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-20-H-1.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-20-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-20-H-2.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-20-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-20-H-3.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-20-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-20-H-4.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-20-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-20-H-5.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-20-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-20-L-1.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-20-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-20-L-2.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-20-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-20-L-3.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-20-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-20-L-4.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-20-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-20-L-5.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-20-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-20-M-1.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-20-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-20-M-2.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-20-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-20-M-3.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-20-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-20-M-4.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-20-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-20-M-5.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-20-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-30-H-1.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-30-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-30-H-2.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-30-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-30-H-3.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-30-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-30-H-4.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-30-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-30-H-5.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-30-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-30-L-1.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-30-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-30-L-2.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-30-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-30-L-3.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-30-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-30-L-4.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-30-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-30-L-5.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-30-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-30-M-1.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-30-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-30-M-2.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-30-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-30-M-3.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-30-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-30-M-4.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-30-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-30-M-5.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-30-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-40-H-1.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-40-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-40-H-2.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-40-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-40-H-3.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-40-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-40-H-4.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-40-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-40-H-5.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-40-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-40-L-1.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-40-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-40-L-2.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-40-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-40-L-3.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-40-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-40-L-4.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-40-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-40-L-5.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-40-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-40-M-1.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-40-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-40-M-2.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-40-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-40-M-3.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-40-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-40-M-4.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-40-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-40-M-5.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-40-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-50-H-1.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-50-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-50-H-2.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-50-H-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-50-H-3.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-50-H-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-50-H-4.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-50-H-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-50-H-5.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-50-H-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-50-L-1.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-50-L-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-50-L-2.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-50-L-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-50-L-3.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-50-L-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-50-L-4.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-50-L-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-50-L-5.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-50-L-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-50-M-1.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-50-M-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-50-M-2.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-50-M-2_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-50-M-3.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-50-M-3_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-50-M-4.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-50-M-4_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-50-M-5.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-50-M-5_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-60-H-1.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+[TTSLPSolver] 处理完成并保存结果: D:\Hongjie\ttslp_vrp\data\ttslp\S-1000-60-H-1_result.xlsx
+[TTSLPSolver] 已更新 summary => D:\Hongjie\ttslp_vrp\data\ttslp\ttslp_summary.xlsx
+[TTSLPSolver] 处理算例: D:\Hongjie\ttslp_vrp\data\raw\S-1000-60-H-2.xlsx
+[TTSLPSolver] 生成了 1920 个候选服务点
+
+进程已结束，退出代码为 -1
