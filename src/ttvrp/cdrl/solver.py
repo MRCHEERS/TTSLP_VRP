@@ -13,7 +13,9 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
+# RL and ALNS utilities
 from src.ttvrp.cdrl.rl import Qlearning_tsp
+from src.ttvrp.cdrl.alns import ALNSOptimizer
 # 引入修订后的 clustering.py
 from src.ttvrp.cdrl.clustering import (
     find_optimal_clustering,
@@ -379,37 +381,137 @@ class CDRLRLSolver:
 
                 # 7) 计算距离(按曼哈顿)
                 total_distance = 0
-                for i_ in range(len(route_all)-1):
-                    dx = abs(route_all[i_][1] - route_all[i_+1][1])
-                    dy = abs(route_all[i_][2] - route_all[i_+1][2])
-                    total_distance += (dx + dy)
+                for i_ in range(len(route_all) - 1):
+                    dx = abs(route_all[i_][1] - route_all[i_ + 1][1])
+                    dy = abs(route_all[i_][2] - route_all[i_ + 1][2])
+                    total_distance += dx + dy
                 distance_alls.append(total_distance)
 
                 print(f"[CDRLRLSolver] cluster_id={cid} 最终路径 => {route_all}")
                 print(f"[CDRLRLSolver] cluster_id={cid} 的总距离 => {total_distance}")
 
-            # ================== 多个 cluster_id 全部处理完 ==================
+        # ================== 多个 cluster_id 全部处理完 ==================
 
-            # 画出多条路径
-            self.plot_final_routes(route_alls, case_id)
+        # =========== RL 阶段结束, 调用 ALNS 继续优化 ===========
+        initial_routes = [[sid for sid, *_ in r] for r in route_alls]
+        alns_opt = ALNSOptimizer(capacity=self.config.TTVRP_PARAMS['vehicle_capacity'])
+        best_state = alns_opt.optimise(df_clustered, initial_routes, iterations=500)
 
-            used_time = time.time() - start_time
-            # 这里可以自己定义: total_dist = sum(distance_alls)?
-            # vehicles = len(cluster_ids)
-            # ...
-            sum_dist = sum(distance_alls)
-            results.append({
-                'case_id': case_id,
-                'total_distance': sum_dist,
-                'vehicle_num': len(cluster_ids),
-                'time': used_time,
-                'detail_path': "See route_alls"
-            })
+        # 根据 ALNS 最优解重建带坐标的路径
+        route_alls = []
+        for r in best_state.routes:
+            path = []
+            for sid in r:
+                row = df_clustered[df_clustered['service_id'] == sid].iloc[0]
+                path.append((sid, row['service_x'], row['service_y']))
+            route_alls.append(path)
 
-            print(f"[CDRLRLSolver] case_id={case_id} done, total_dist={sum_dist}, vehicles={len(cluster_ids)}, time={used_time:.2f}s")
+        # 画出优化后的多条路径
+        self.plot_final_routes(route_alls, f"{case_id}_alns")
 
-        # 写到 Excel
+        used_time = time.time() - start_time
+        sum_dist = sum(best_state.route_distance(r) for r in best_state.routes)
+        results.append({
+            'case_id': case_id,
+            'total_distance': sum_dist,
+            'vehicle_num': len(best_state.routes),
+            'time': used_time,
+            'detail_path': "See route_alls"
+        })
+
+        print(
+            f"[CDRLRLSolver] case_id={case_id} done after ALNS, total_dist={sum_dist}, "
+            f"vehicles={len(best_state.routes)}, time={used_time:.2f}s"
+        )
+
+        # end of processing single file
+
         self.save_summary(results)
+
+    def run_single_case(self, filename):
+        """仅对指定的聚类结果文件运行RL+ALNS,并打印详细信息"""
+        if not filename.endswith('_clustered.xlsx'):
+            filename = filename + '_clustered.xlsx'
+        path = (
+            filename
+            if os.path.isabs(filename)
+            else os.path.join(self.clustered_dir, filename)
+        )
+        if not os.path.exists(path):
+            print(f"[CDRLRLSolver] file {path} not found")
+            return
+
+        start_time = time.time()
+        base_name = os.path.splitext(os.path.basename(path))[0]
+        case_id = base_name.replace('_clustered', '')
+        df_clustered = pd.read_excel(path, sheet_name='clustered')
+        cluster_ids = df_clustered['cluster_id'].unique()
+
+        route_alls = []
+        for cid in cluster_ids:
+            if np.isnan(cid):
+                continue
+            cluster_points = df_clustered[df_clustered['cluster_id'] == cid].copy()
+            stop_points = cluster_points[cluster_points['service_type'] == '停靠点']
+            depot_points = cluster_points[cluster_points['service_type'] == '甩柜点']
+            start_point = df_clustered[df_clustered['service_type'] == '配送中心'].squeeze()
+
+            path_first = [(start_point.service_id, start_point.service_x, start_point.service_y)]
+            cur_point = start_point
+            dpoints = depot_points.copy()
+            while len(dpoints) > 0:
+                min_distance = float('inf')
+                min_depot_point = None
+                for _, row in dpoints.iterrows():
+                    dist_ = abs(cur_point['service_x'] - row['service_x']) + abs(cur_point['service_y'] - row['service_y'])
+                    if dist_ < min_distance:
+                        min_distance = dist_
+                        min_depot_point = row
+                path_first.append((min_depot_point.service_id, min_depot_point.service_x, min_depot_point.service_y))
+                cur_point = min_depot_point
+                dpoints = dpoints[dpoints['service_id'] != min_depot_point['service_id']]
+
+            node_positions = [(cur_point['service_x'], cur_point['service_y'])]
+            for _, row in stop_points.iterrows():
+                node_positions.append((row.service_x, row.service_y))
+
+            qlearn = Qlearning_tsp(alpha=0.5, gamma=0.01, epsilon=0.5, final_epsilon=0.05, node_num=len(node_positions), mapsize=400)
+            qlearn.tsp_map.read_node_positions(node_positions)
+            qlearn.Train_Qtable(iter_num=5000)
+
+            route_tsp = []
+            for i in qlearn.good['path']:
+                x_ = qlearn.tsp_map.coord_x[i]
+                y_ = qlearn.tsp_map.coord_y[i]
+                matched = cluster_points[(np.isclose(cluster_points['service_x'], x_)) & (np.isclose(cluster_points['service_y'], y_))]
+                if len(matched) > 0:
+                    sid_ = matched.iloc[0]['service_id']
+                    route_tsp.append((sid_, x_, y_))
+                else:
+                    route_tsp.append((-999, x_, y_))
+
+            route_all = path_first + route_tsp[1:]
+            route_all = route_all + [route_all[1]] + [route_all[0]]
+            route_alls.append(route_all)
+
+        initial_routes = [[sid for sid, *_ in r] for r in route_alls]
+        alns_opt = ALNSOptimizer(capacity=self.config.TTVRP_PARAMS['vehicle_capacity'])
+        best_state = alns_opt.optimise(df_clustered, initial_routes, iterations=500)
+
+        route_alls = []
+        for r in best_state.routes:
+            path_list = []
+            for sid in r:
+                row = df_clustered[df_clustered['service_id'] == sid].iloc[0]
+                path_list.append((sid, row['service_x'], row['service_y']))
+            route_alls.append(path_list)
+
+        total_dist = sum(best_state.route_distance(r) for r in best_state.routes)
+        print(f"[CDRLRLSolver] {case_id} ALNS distance: {total_dist}")
+        self.plot_final_routes(route_alls, f"{case_id}_single")
+        print(f"[CDRLRLSolver] single case done in {time.time() - start_time:.2f}s")
+
+        
 
     def plot_final_routes(self, route_alls, case_id):
         """
