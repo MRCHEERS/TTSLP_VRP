@@ -215,6 +215,115 @@ class CDRLClusteringSolver:
         # 将 summary_records 写入/追加到 cdrl_clustering_summary.xlsx
         self.save_cluster_summary(summary_records)
 
+    def run_clustering_single(self, file_path):
+        """只对指定的 TTSLP 结果文件进行聚类"""
+        if not os.path.exists(file_path):
+            print(f"[CDRLClusteringSolver] 未找到文件: {file_path}")
+            return
+
+        fname = os.path.basename(file_path)
+
+        base_name = os.path.splitext(fname)[0]
+        output_name = f"{base_name}_clustered.xlsx"
+        output_path = os.path.join(self.clustered_dir, output_name)
+
+        if os.path.exists(output_path):
+            print(f"[CDRLClusteringSolver] 检测到已存在 {output_name}, 跳过: {fname}")
+            return
+
+        df_customers = pd.read_excel(file_path)
+        df_service = df_customers.groupby(
+            ['service_id', 'service_type', 'service_x', 'service_y'],
+            as_index=False
+        )['volume'].mean()
+
+        Ix = df_service[df_service['service_type'] == '停靠点'][['service_x', 'service_y']].values
+        Iy = df_service[df_service['service_type'] == '甩柜点'][['service_x', 'service_y']].values
+
+        n_stop_points = len(Ix)
+        n_depot_points = len(Iy)
+
+        if n_stop_points == 0 or n_depot_points == 0:
+            print(f"[CDRLClusteringSolver] {fname} 中停靠点或甩柜点数量为0，跳过。")
+            return
+
+        start_time = time.time()
+
+        k_depot = max(1, math.ceil(n_depot_points/2))
+        clusters_depot = find_optimal_clustering(
+            points=Iy.tolist(),
+            k=k_depot,
+            iterations=100,
+            mode=0,
+            max_size=2,
+            Q=500,
+            df_service=df_service
+        )
+        depot_clusters_count = len(clusters_depot)
+
+        k_stop = depot_clusters_count
+        maxsize = math.ceil(n_stop_points/k_stop) + 3
+        clusters_stop = find_optimal_clustering(
+            points=Ix.tolist(),
+            k=k_stop,
+            iterations=1000,
+            mode=1,
+            max_size=maxsize,
+            Q=500,
+            df_service=df_service
+        )
+        stop_clusters_count = len(clusters_stop)
+
+        depot_centers = [np.mean(c, axis=0) for c in clusters_depot]
+        stop_centers = [np.mean(c, axis=0) for c in clusters_stop]
+        k1, k2 = len(depot_centers), len(stop_centers)
+        dist_matrix = np.zeros((k1, k2))
+        for i in range(k1):
+            for j in range(k2):
+                dist_matrix[i, j] = compute_min_pairwise_distance(clusters_depot[i], clusters_stop[j])
+
+        row_ind, col_ind = linear_sum_assignment(dist_matrix)
+        match_count = len(row_ind)
+
+        df_service['cluster_id'] = np.nan
+        for cid, (i, j) in enumerate(zip(row_ind, col_ind), start=1):
+            for (px, py) in clusters_depot[i]:
+                df_service.loc[
+                    (df_service['service_type'] == '甩柜点') &
+                    (np.isclose(df_service['service_x'], px)) &
+                    (np.isclose(df_service['service_y'], py)),
+                    'cluster_id'
+                ] = cid
+            for (px, py) in clusters_stop[j]:
+                df_service.loc[
+                    (df_service['service_type'] == '停靠点') &
+                    (np.isclose(df_service['service_x'], px)) &
+                    (np.isclose(df_service['service_y'], py)),
+                    'cluster_id'
+                ] = cid
+
+        distribution_center = {
+            'service_id': -1,
+            'service_type': '配送中心',
+            'service_x': 0,
+            'service_y': 0,
+            'volume': np.nan
+        }
+        for col in df_service.columns.tolist():
+            if col not in distribution_center:
+                distribution_center[col] = np.nan
+
+        df_service = pd.concat([df_service, pd.DataFrame([distribution_center])], ignore_index=True)
+
+        used_time = time.time() - start_time
+        df_service.to_excel(output_path, index=False, sheet_name='clustered')
+        print(f"[CDRLClusteringSolver] 写出 {output_name} -> {output_path}")
+
+        print(
+            f"[CDRLClusteringSolver] {fname} clustered: stop_clusters={stop_clusters_count}, "
+            f"depot_clusters={depot_clusters_count}, match={match_count}, time={used_time:.2f}s"
+        )
+
     def save_cluster_summary(self, records):
         """
         将每个文件的聚类统计信息追加到 cdrl_clustering_summary.xlsx
@@ -265,6 +374,102 @@ class CDRLRLSolver:
 
         self.summary_xlsx_path = os.path.join(self.rl_output_dir, 'cdrl_rl_summary.xlsx')
         # 若存在,后续可append; 若不存在,后续第一次写入
+
+    def run_rl_for_case(self, filename):
+        """只求解指定的 *_clustered.xlsx 文件"""
+
+        if not filename.endswith('_clustered.xlsx'):
+            print(f"[CDRLRLSolver] 文件名需以 _clustered.xlsx 结尾: {filename}")
+            return
+
+        path = os.path.join(self.clustered_dir, filename)
+        if not os.path.exists(path):
+            print(f"[CDRLRLSolver] 未找到文件: {path}")
+            return
+
+        self._run_single_case(path)
+
+    def _run_single_case(self, path):
+        """内部函数: 求解单个聚类文件并记录结果"""
+        start_time = time.time()
+
+        fname = os.path.basename(path)
+        base_name = os.path.splitext(fname)[0]
+        case_id = base_name.replace("_clustered", "")
+
+        df_clustered = pd.read_excel(path, sheet_name='clustered')
+        cluster_ids = df_clustered['cluster_id'].unique()
+
+        route_alls = []
+        distance_alls = []
+
+        for cid in cluster_ids:
+            if np.isnan(cid):
+                continue
+
+            cluster_points = df_clustered[df_clustered['cluster_id'] == cid].copy()
+            stop_points = cluster_points[cluster_points['service_type'] == '停靠点']
+            depot_points = cluster_points[cluster_points['service_type'] == '甩柜点']
+            start_point = df_clustered[df_clustered['service_type'] == '配送中心'].squeeze()
+
+            path_first = [(start_point.service_id, start_point.service_x, start_point.service_y)]
+            cur_point = start_point
+            dpoints = depot_points.copy()
+
+            while len(dpoints) > 0:
+                min_distance = float('inf')
+                min_depot_point = None
+                for idx, row in dpoints.iterrows():
+                    dist_ = abs(cur_point['service_x'] - row['service_x']) + abs(cur_point['service_y'] - row['service_y'])
+                    if dist_ < min_distance:
+                        min_distance = dist_
+                        min_depot_point = row
+                path_first.append((min_depot_point.service_id, min_depot_point.service_x, min_depot_point.service_y))
+                cur_point = min_depot_point
+                dpoints = dpoints[dpoints['service_id'] != min_depot_point['service_id']]
+
+            node_positions = [(cur_point['service_x'], cur_point['service_y'])]
+            for _, row in stop_points.iterrows():
+                node_positions.append((row.service_x, row.service_y))
+
+            rl_node_num = len(node_positions)
+            qlearn = Qlearning_tsp(alpha=0.5, gamma=0.01, epsilon=0.5, final_epsilon=0.05,
+                                   node_num=rl_node_num, mapsize=400)
+            qlearn.tsp_map.read_node_positions(node_positions)
+            qlearn.Train_Qtable(iter_num=5000)
+
+            route_tsp = []
+            for i in qlearn.good['path']:
+                x_ = qlearn.tsp_map.coord_x[i]
+                y_ = qlearn.tsp_map.coord_y[i]
+                matched_row = cluster_points[(np.isclose(cluster_points['service_x'], x_)) &
+                                             (np.isclose(cluster_points['service_y'], y_))]
+                if len(matched_row) > 0:
+                    sid_ = matched_row.iloc[0]['service_id']
+                    route_tsp.append((sid_, x_, y_))
+                else:
+                    route_tsp.append((-999, x_, y_))
+
+            route_all = path_first + route_tsp[1:]
+            route_all = route_all + [route_all[1]] + [route_all[0]]
+
+            route_alls.append(route_all)
+
+            total_distance = 0
+            for i_ in range(len(route_all) - 1):
+                dx = abs(route_all[i_][1] - route_all[i_ + 1][1])
+                dy = abs(route_all[i_][2] - route_all[i_ + 1][2])
+                total_distance += (dx + dy)
+            distance_alls.append(total_distance)
+
+        self.plot_final_routes(route_alls, case_id)
+
+        used_time = time.time() - start_time
+        sum_dist = sum(distance_alls)
+        print(
+            f"[CDRLRLSolver] case_id={case_id} done, total_dist={sum_dist}, "
+            f"vehicles={len(cluster_ids)}, time={used_time:.2f}s"
+        )
 
     def run_rl_for_all_clustered(self):
         """
